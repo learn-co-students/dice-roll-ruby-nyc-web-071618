@@ -4,15 +4,5 @@
 
 def roll
   result = 1 + rand(6)# code goes here
-  puts result
+  return result
 end
-
-roll
-roll
-roll
-roll
-roll
-roll
-roll
-roll
-roll
